@@ -20,11 +20,13 @@ A simple and responsive food product website built using HTML, CSS, and a little
 
 ## 📁 Project Structure
 
+```
 Food-website-main/
 ├── index.html
 ├── style.css
 ├── script.js
 └── images/
+```
 
 # Main-feature:
 
